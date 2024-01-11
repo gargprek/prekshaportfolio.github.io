@@ -306,7 +306,7 @@ section {
   width: 95%;
 }
 .progress-line.css span {
-  width: 90%;
+  width: 95%;
 }
 .progress-line.JavaScript span {
   width: 80%;
@@ -315,7 +315,7 @@ section {
   width: 90%;
 }
 .progress-line.DSA span {
-  width: 70%;
+  width: 80%;
 }
 .progress-line.UIUX span {
   width: 85%;
@@ -340,7 +340,7 @@ section {
   content: "95%";
 }
 .progress-line.css span::after {
-  content: "90%";
+  content: "95%";
 }
 .progress-line.JavaScript span::after {
   content: "80%";
@@ -349,7 +349,7 @@ section {
   content: "90%";
 }
 .progress-line.DSA span::after {
-  content: "70%";
+  content: "80%";
 }
 .progress-line.UIUX span::after {
   content: "85%";
@@ -514,7 +514,7 @@ section {
   width: 90%;
 }
 .progress-line1.comm span {
-  width: 70%;
+  width: 85%;
 }
 .progress-line1.PS span {
   width: 80%;
@@ -539,7 +539,7 @@ section {
   content: "90%";
 }
 .progress-line1.comm span::after {
-  content: "70%";
+  content: "85%";
 }
 .progress-line1.PS span::after {
   content: "80%";
