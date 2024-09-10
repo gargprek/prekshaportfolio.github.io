@@ -303,12 +303,15 @@ section {
   transform-origin: left;
 }
 .progress-line.html span {
-  width: 95%;
+  width: 100%;
 }
 .progress-line.css span {
   width: 95%;
 }
 .progress-line.JavaScript span {
+  width: 90%;
+}
+.progress-line.react span {
   width: 80%;
 }
 .progress-line.CPP span {
@@ -337,12 +340,15 @@ section {
   opacity: 0;
 }
 .progress-line.html span::after {
-  content: "95%";
+  content: "100%";
 }
 .progress-line.css span::after {
   content: "95%";
 }
 .progress-line.JavaScript span::after {
+  content: "90%";
+}
+.progress-line.react span::after {
   content: "80%";
 }
 .progress-line.CPP span::after {
